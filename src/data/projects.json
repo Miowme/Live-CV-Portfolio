@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Stock Price Prediction",
+    "imageSrc": "projects/Project1.png",
+    "description": "This website predicts up-to-date stock prices using Linear Regression",
+    "skills": ["Python", "Github"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7250088063245148162/",
+    "source": "https://github.com/Miowme/Stock-Prediction-Using-Linear-Regression"
+  },
+  {
+    "title": "Website To Do List",
+    "imageSrc": "projects/Project2.png",
+    "description": "This website helps users create, manage, and track their daily tasks easily",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://miowme.github.io/to-do-list/",
+    "source": "https://github.com/Miowme/to-do-list"
+  },
+  {
+    "title": "Burger House",
+    "imageSrc": "projects/Project3.png",
+    "description": "This website lets you order food and reserve a table at Burger House",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://miowme.github.io/JustEat/",
+    "source": "https://github.com/Miowme/JustEat"
+  }
+]

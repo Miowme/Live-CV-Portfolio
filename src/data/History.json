@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Learning and Training Staff Division",
+    "organization": "Bina Nusantara Computer Club",
+    "startDate": "Jan, 2023",
+    "endDate": "Sep, 2024",
+    "experiences": ["Schedule and coordinate mentors for sessions", "Evaluate course effectiveness and feedback", "Manage Learning and Training courses"],
+    "imageSrc": "history/bncc.png"
+  },
+  {
+    "role": "Programming Class Staff Division",
+    "organization": "Himpunan Mahasiswa Teknik Informatika",
+    "startDate": "Jun, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": ["Managed programming education events", "Enhanced participants' programming skills", "Encouraged engagement in tech community"],
+    "imageSrc": "history/himti.jpg"
+  },
+  {
+    "role": "Freshmen Partner B2027",
+    "organization": "Binus University",
+    "startDate": "Sep, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": ["Educated and assisted freshmen students", "Taught Binus Values: SPIRIT principles", "Facilitated discussions and answered questions"],
+    "imageSrc": "history/binus.png"
+  }
+]
